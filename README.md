@@ -31,6 +31,7 @@ This project applies Naive Bayes and Random Forest models in R to predict early-
 | Logistic Regression | ~93%     | High      | High   | High     | High  |
 | SVM                 | ~93%     | High      | High   | High     | High  |
 
+
 ## Requirements
 
 - R 4.x
